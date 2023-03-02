@@ -8,8 +8,9 @@
   </div>
 
 
-![Dutra's GitHub stats](https://github-readme-stats.vercel.app/api?username=omatheusdutra&show_icons=true&theme=tokyonight)
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omatheusdutra&layout=compact&langs_count=7&theme=tokyonight"/>
+<a href="https://github.com/omatheusdutra">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=omatheusdutra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omatheusdutra&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 
@@ -29,7 +30,8 @@
   <img alt="NODE.JS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   <img alt="PYTHON" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   
- 
+  
+  <img align="right" alt="Cartoon" height="200" style="border-radius:50px;" src="https://user-images.githubusercontent.com/89203538/222477874-0acc3db4-e4cd-4988-956c-b9d30f956e69.jpg?transparent=1&palette=1&scale=2">
   
   ##
   
