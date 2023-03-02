@@ -1,8 +1,8 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=2000&color=FFFAFA&background=483D8B00&center=true&width=800&height=80&lines=Bem+Vindo+ao+meu+perfil!" alt="Typing SVG" /></a>
 
-<a href="https://linkedin.com/in/matheus-dutra-01bb34209/"><img src="https://img.icons8.com/ios/40/FAB005/linkedin.png" target="_blank"></a>
-<a href="https://instagram.com/omatheus.dutra"> <img src="https://img.icons8.com/ios/40/FAB005/instagram-new--v1.png" target_blank></a>
+<a href="https://linkedin.com/in/matheus-dutra-01bb34209/"><img src="https://img.icons8.com/ios/40/4B0082/linkedin.png" target="_blank"></a>
+<a href="https://instagram.com/omatheus.dutra"> <img src="https://img.icons8.com/ios/40/4B0082/instagram-new--v1.png" target_blank></a>
   <br>  
   <h6> Os ícones acima são clicáveis </h6> 
   
