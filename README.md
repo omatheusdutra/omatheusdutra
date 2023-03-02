@@ -5,11 +5,10 @@
 <a href="https://instagram.com/omatheus.dutra"> <img src="https://img.icons8.com/ios/40/FAB005/instagram-new--v1.png" target_blank></a>
   <br>  
   <h6> Os ícones acima são clicáveis </h6> 
-  </div>
+  
+</div>
 
-
-<a href="https://github.com/omatheusdutra">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=omatheusdutra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  ![Matheus Dutra's GitHub stats](https://github-readme-stats.vercel.app/api?username=omatheusdutra&show_icons=true&theme=tokyonight)
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omatheusdutra&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
