@@ -1,5 +1,9 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=2000&color=FFFAFA&background=483D8B00&center=true&width=800&height=80&lines=Bem+Vindo+ao+meu+perfil!" alt="Typing SVG" /></a>
+  
+<div align="center">
+   <img height="380em" src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif"/>
+</div>
 
 <a href="https://linkedin.com/in/matheus-dutra-01bb34209/"><img src="https://img.icons8.com/ios/40/4B0082/linkedin.png" target="_blank"></a>
 <a href="https://instagram.com/omatheus.dutra"> <img src="https://img.icons8.com/ios/40/4B0082/instagram-new--v1.png" target_blank></a>
@@ -8,10 +12,14 @@
   
 </div>
 
-  ![Matheus Dutra's GitHub stats](https://github-readme-stats.vercel.app/api?username=omatheusdutra&show_icons=true&theme=tokyonight)
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omatheusdutra&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+## 📊 &nbsp;Stats
 
+<h3 align="left">GitHub Stats</h3>
+
+![Matheus Dutra's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=omatheusdutra&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=020114&title_color=7520FF&text_color=FFF&border_radius=3&border_color=181832&icon_color=7520FF&theme=jolly)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=omatheusdutra&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=7520FF&hide=html,css&bg_color=020114&text_color=8B8B8B&border_radius=3&border_color=181832)](https://github.com/elidianaandrade/github-readme-stats)
+
+</div>
 
 ## Habilidades e Conhecimetos👨‍💻
 <div style="display: inline_block"><br>
