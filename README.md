@@ -5,7 +5,7 @@
    <img height="380em" src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif"/>
 </div>
 
-<a href="https://linkedin.com/in/matheus-dutra-01bb34209/"><img src="https://img.icons8.com/ios/40/4B0082/linkedin.png" target="_blank"></a>
+<a href="https://linkedin.com/in/omatheus-dutra/"><img src="https://img.icons8.com/ios/40/4B0082/linkedin.png" target="_blank"></a>
 <a href="https://instagram.com/omatheus.dutra"> <img src="https://img.icons8.com/ios/40/4B0082/instagram-new--v1.png" target_blank></a>
   <br>  
   <h6> Os ícones acima são clicáveis </h6> 
