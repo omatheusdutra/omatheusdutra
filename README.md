@@ -21,7 +21,7 @@
 
 </div>
 
-## Habilidades e Conhecimetos👨‍💻
+## 👨‍💻Habilidades e Conhecimetos
 <div style="display: inline_block"><br>
   
   <h3> Tecnologias Front-end </h3>
