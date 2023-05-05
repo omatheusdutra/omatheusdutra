@@ -8,8 +8,9 @@
   <h3 align="center">Connect with me:</h3>
 
 <a href="https://linkedin.com/in/omatheus-dutra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh mishra" height="30" width="40" /></a>
-<a href="https://instagram.com/omatheus.dutra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simplified_learner" height="30" width="40" /></a>
-<a href="mailto:matheusbdutra@hotmail.com"><img src="https://img.icons8.com/ios/40/4B0082/microsoft-outlook-2019--v1.png" target="_blank"></a>
+<a href="https://instagram.com/omatheus.dutra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omatheus.dutra" height="30" width="40" /></a>
+<a href="mailto:matheusbdutra@hotmail.com" target="blank"><img align="center" src="https://icon-icons.com/icons2/2699/PNG/64/microsoft_outlook_logo_icon_168974.png" alt="Outlook" height="40" width="40" /></a>
+
 
   <h6> Os ícones acima são clicáveis </h6> 
   
