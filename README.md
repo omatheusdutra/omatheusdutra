@@ -15,16 +15,19 @@
 <br>
 
 
-<h2 align="center">📊 &nbsp;GitHub Stats</h2>
+<h2 align="center">📊 &nbsp;GitHub Stats</h2><br>
 
 ![Matheus Dutra's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=omatheusdutra&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=020114&title_color=7520FF&text_color=FFF&border_radius=3&border_color=181832&icon_color=7520FF&theme=jolly)
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=omatheusdutra&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=7520FF&hide=html,css&bg_color=020114&text_color=8B8B8B&border_radius=3&border_color=181832)](https://github.com/elidianaandrade/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=omatheusdutra&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=7520FF&hide=html,css&bg_color=020114&text_color=8B8B8B&border_radius=3&border_color=181832)](https://github.com/elidianaandrade/github-readme-stats)<br>
 
 </div>
+  
+
+  
 
 ## 👨‍💻Habilidades e Conhecimetos
   
-<div style="display: inline_block"><br>
+<div style="display: inline_block"><br><br>
   <div align="center">
 
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
@@ -39,9 +42,10 @@
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
-</div>
+</div><br><br>
 
-  ##
+  
+   ##
   <img align="center" alt="Cartoon" height="200" style="border-radius:50px;" src="https://user-images.githubusercontent.com/89203538/222477874-0acc3db4-e4cd-4988-956c-b9d30f956e69.jpg?transparent=1&palette=1&scale=2">
     
 </div>
