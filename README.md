@@ -23,7 +23,6 @@
 </div>
   
 ![snake gif](https://github.com/omatheusdutra/omatheusdutra/blob/output/github-contribution-grid-snake.svg)
-  
 
 ## 👨‍💻Habilidades e Conhecimetos
   
@@ -41,7 +40,7 @@
   <img align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
   <img align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+ 
 </div><br><br>
 
   
