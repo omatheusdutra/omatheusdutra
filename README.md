@@ -5,8 +5,10 @@
    <img height="380em" src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif"/>
 </div>
 
-<a href="https://linkedin.com/in/omatheus-dutra/"><img src="https://img.icons8.com/ios/40/4B0082/linkedin.png" target="_blank"></a>
-<a href="https://instagram.com/omatheus.dutra"> <img src="https://img.icons8.com/ios/40/4B0082/instagram-new--v1.png" target_blank></a>
+  <h3 align="center">Connect with me:</h3>
+
+<a href="https://linkedin.com/in/omatheus-dutra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh mishra" height="30" width="40" /></a>
+<a href="https://instagram.com/omatheus.dutra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simplified_learner" height="30" width="40" /></a>
 <a href="mailto:matheusbdutra@hotmail.com"><img src="https://img.icons8.com/ios/40/4B0082/microsoft-outlook-2019--v1.png" target="_blank"></a>
 
   <h6> Os ícones acima são clicáveis </h6> 
@@ -24,7 +26,7 @@
   
 ![snake gif](https://github.com/omatheusdutra/omatheusdutra/blob/output/github-contribution-grid-snake.svg)
 
-## 👨‍💻Habilidades e Conhecimetos
+## 👨‍💻Languages and Tools
   
 <div style="display: inline_block"><br><br>
   <div align="center">
