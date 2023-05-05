@@ -9,7 +9,7 @@
 
 <a href="https://linkedin.com/in/omatheus-dutra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh mishra" height="30" width="40" /></a>
 <a href="https://instagram.com/omatheus.dutra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omatheus.dutra" height="30" width="40" /></a>
-<a href="mailto:matheusbdutra@hotmail.com" target="blank"><img align="center" src="https://icon-icons.com/icons2/2699/PNG/64/microsoft_outlook_logo_icon_168974.png" alt="Outlook" height="40" width="40" /></a>
+<a href="mailto:matheusbdutra@hotmail.com" ><img  align="center" height="40" width="40" alt="microsoft_outlook_macos_bigsur_icon_189971" src="https://user-images.githubusercontent.com/89203538/236384408-d701199a-69e4-4d73-b7b2-d304f871440c.png" /></a>
 
 
   <h6> Os ícones acima são clicáveis </h6> 
