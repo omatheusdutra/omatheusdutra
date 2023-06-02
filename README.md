@@ -5,7 +5,7 @@
    <img height="380em" src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif"/>
 </div>
 
-  <h3 align="center">Como me contatar::</h3>
+  <h3 align="center">Como me contatar:</h3>
 
 <a href="https://linkedin.com/in/omatheus-dutra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh mishra" height="30" width="40" /></a>
 <a href="https://instagram.com/omatheus.dutra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omatheus.dutra" height="30" width="40" /></a>
