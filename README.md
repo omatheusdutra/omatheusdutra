@@ -14,16 +14,6 @@
 
   <h6> Os ícones acima são clicáveis </h6> 
   
-<div style="text-align: center;">
-<br>
-
-
-<h2 align="center">📊GitHub Stats</h2><br>
-
-![Matheus Dutra's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=omatheusdutra&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=020114&title_color=7520FF&text_color=FFF&border_radius=3&border_color=181832&icon_color=7520FF&theme=jolly)
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=omatheusdutra&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=7520FF&hide=html,css&bg_color=020114&text_color=8B8B8B&border_radius=3&border_color=181832)](https://github.com/elidianaandrade/github-readme-stats)<br><br>
-
-</div>
   
 ![snake gif](https://github.com/omatheusdutra/omatheusdutra/blob/output/github-contribution-grid-snake.svg)
 
