@@ -182,9 +182,10 @@ Sou Matheus Dutra. Construo sistemas estáveis, observáveis e fáceis de evolui
 
 ---
 
-## 📊 Stats (leve)
+## 📊 Stats
 
 <div align="center">
   <img alt="GitHub stats" height="150" src="https://github-readme-stats.vercel.app/api?username=omatheusdutra&show_icons=true&hide_title=true&hide=issues&theme=transparent&icon_color=22c55e&text_color=9ca3af&title_color=22c55e&hide_border=true&cache_seconds=21600" />
   <img alt="Top languages" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omatheusdutra&layout=compact&theme=transparent&title_color=22c55e&text_color=9ca3af&hide_border=true&cache_seconds=21600" />
 </div>
+
