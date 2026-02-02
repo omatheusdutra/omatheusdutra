@@ -21,7 +21,7 @@
 
 <br />
 
-# Construo software confiável, escalável e focado em impacto.
+## 🚀 Construo sistemas confiáveis, escaláveis e orientados a impacto real.
 
 Sou Matheus Dutra. Construo sistemas estáveis, observáveis e fáceis de evoluir, do backend ao frontend, com foco em qualidade, performance e manutenção.
 
@@ -195,6 +195,7 @@ Sou Matheus Dutra. Construo sistemas estáveis, observáveis e fáceis de evolui
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=omatheusdutra&theme=github_dark&utcOffset=-3)
 
 </div>
+
 
 
 
