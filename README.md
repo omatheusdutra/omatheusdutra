@@ -19,7 +19,9 @@
   </a>
 </div>
 
-# Engenheiro de Software | Full Stack, Cloud e Dados | APIs, SQL, AWS | Sistemas e Performance
+<br />
+
+# Construo software confiável, escalável e focado em impacto.
 
 Sou Matheus Dutra. Construo sistemas estáveis, observáveis e fáceis de evoluir, do backend ao frontend, com foco em qualidade, performance e manutenção.
 
