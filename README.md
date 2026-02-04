@@ -1,7 +1,8 @@
-﻿<!-- README para perfil GitHub. Conteúdo em PT-BR, focado em recrutadores técnicos. -->
-
-<div align="center">
-  <img alt="Profile banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f14,50:111827,100:22c55e&height=170&section=header&text=Matheus%20Dutra&fontColor=ffffff&fontSize=36&animation=fadeIn&desc=Engenheiro%20de%20Software%20%7C%20Full%20Stack,%20Cloud%20e%20Dados%20%7C%20APIs,%20SQL,%20AWS%20%7C%20Sistemas%20e%20Performance&descSize=14&descColor=9ca3af&descAlignY=75" />
+﻿<div align="center">
+  <picture>
+    <source srcset="assets/banner-anim.png" type="image/apng" />
+    <img alt="Profile banner" src="assets/banner.png" />
+  </picture>
 </div>
 
 <div align="center">
