@@ -6,9 +6,6 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/omatheusdutra">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/omatheusdutra?style=flat&logo=github&label=followers&color=22c55e" />
-  </a>
   <a href="https://github.com/omatheusdutra?tab=repositories">
     <img alt="Public repos" src="https://img.shields.io/badge/repos-public-22c55e?style=flat&logo=github" />
   </a>
@@ -196,6 +193,7 @@ Sou Matheus Dutra. Construo sistemas estáveis, observáveis e fáceis de evolui
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=omatheusdutra&theme=github_dark&utcOffset=-3)
 
 </div>
+
 
 
 
